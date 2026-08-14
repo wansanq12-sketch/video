@@ -1,0 +1,10 @@
+pycryptodome
+moviepy==2.2.1
+requests
+decorator
+imageio
+imageio_ffmpeg
+numpy
+pillow
+proglog
+python-dotenv
